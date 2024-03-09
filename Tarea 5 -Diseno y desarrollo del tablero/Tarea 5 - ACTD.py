@@ -1,4 +1,4 @@
-# Taller 5 - ACTD
+# Tarea 5 - ACTD
 
 import dash
 from dash import dcc  # dash core components
