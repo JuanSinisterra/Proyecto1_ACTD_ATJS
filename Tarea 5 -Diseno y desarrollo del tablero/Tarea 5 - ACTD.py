@@ -68,7 +68,6 @@ app.layout = html.Div([
     html.Hr(),
     html.Div(html.Div(html.H6("Resultados Preliminares la Aplicación", style={'fontWeight': 'bold'}))),
     html.Div(html.Br()),
-    html.Div(html.Div(html.H6("Modelo de productividad real", style={'fontWeight': 'bold'}))),
     html.Div(id='output-container99',style={'fontSize': '20px'}),
     html.Hr(),
     html.Div(html.Div(html.H6("Resultados de la Aplicación", style={'fontWeight': 'bold'}))),
